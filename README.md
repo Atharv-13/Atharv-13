@@ -1,28 +1,41 @@
+# 👋 Hi, I'm Atharv Ganbavale
 
-### 👋 Hello World, I'm Atharv!
+🎯 **Data Analyst | Python | Power BI | SQL | Excel | Statistics | Visualization**
 
-I'm a passionate web developer with a knack for crafting elegant and intuitive digital experiences. My journey in the world of coding started with a curiosity to bring ideas to life on the web.
+Welcome to my GitHub!  
+I’m passionate about exploring data, uncovering insights, and building dashboards that drive decisions.  
+Currently working as a **Data Science Trainer at SevenMentors**, I enjoy turning raw data into meaningful stories.
 
-#### 💻 What I Do:
-- Frontend Development using modern HTML, CSS, and JavaScript.
-- Building responsive and user-friendly web applications with frameworks like React.
-- Collaborating with cross-functional teams to deliver high-quality software.
+---
 
-#### 🚀 Skills:
-- HTML, CSS, JavaScript
-- React, Redux
-- Responsive Design
-- Git/GitHub
+### 🔍 What I Do
+- 📊 Data Cleaning, Transformation, and Analysis (Python, Pandas, NumPy)
+- 📈 Dashboard Development (Power BI, Tableau)
+- 🧠 Statistical Analysis & Hypothesis Testing
+- 🗄️ SQL Queries and Database Management
+- 🤖 Machine Learning for Predictive Insights (Scikit-learn)
 
+---
 
-#### 🌱 Always Learning:
-I believe in the power of continuous learning and staying updated with the latest trends in web development. My goal is to create not just code, but digital experiences that leave a lasting impact.
+### 🚀 Featured Projects
+| Project | Description | Tools |
+|----------|-------------|-------|
+| [BMW Sales Analysis](https://github.com/atharvganbavale/BMW-Sales-Analysis) | Analyzed market insights & KPIs for BMW sales trends | Power BI, Excel |
+| [Customer Churn Prediction](https://github.com/atharvganbavale/Customer-Churn-Analysis) | Predicted customer churn using ML techniques | Python, Pandas, Scikit-learn |
+| [COVID Data Dashboard](https://github.com/atharvganbavale/COVID-Dashboard) | Built an interactive Power BI dashboard | Power BI, DAX |
 
+---
 
+### 🛠️ Tech Stack
+`Python` · `Power BI` · `SQL` · `Excel` · `Tableau` · `Pandas` · `NumPy` · `Matplotlib` · `Seaborn`
 
-Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to geek out about 
+---
 
-<!---
-Atharv-13/Atharv-13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=https://www.linkedin.com/in/atharv-ganbavale13/)]
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:atharvganbavale@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github)](https://github.com/atharvganbavale)
+
+---
+
+⭐ *"Data is the new oil, and I love refining it into insights!"*
